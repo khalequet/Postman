@@ -1,0 +1,21 @@
+{
+	"id": "82e91537-d512-4c5e-a90c-848abe1ba060",
+	"name": "STGEnv",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://stage.taltektc.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "newPassword",
+			"value": "test1234",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-09-04T15:09:05.027Z",
+	"_postman_exported_using": "Postman/9.30.3"
+}
